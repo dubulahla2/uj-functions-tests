@@ -1,0 +1,14 @@
+Create a index.html file
+Put the HTML in there : 'html:5' press tab
+configure Mocha
+    # a div with an id called 'mocha'
+    # reference the Mocha JavaScript library
+    # reference the Mocha XSS files
+    # Call the  Mocha code to run the tests...
+
+     fro each test:
+    #Create a file for the function you are testing...
+    #Create a Mocha test for the function you are testing..
+    #Link the function you are testing into the html file using script tag
+    #Link Mocha testing into the html file using script tag
+    #Add to GgitHub & push to the 'gh-pages'
